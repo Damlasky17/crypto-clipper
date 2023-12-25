@@ -175,3 +175,5 @@ https://cointool.app/batchCheckBalance/eth
 ## Disclaimer:
 
 The **Crypto Clipper software** provided herein is intended for educational purposes only. It is vital to understand that using or distributing this software for any illegal or malicious activities is strictly prohibited. The developer shall not be held responsible for any misuse, damage, or loss caused by the use of this software.
+
+
